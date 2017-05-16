@@ -1,0 +1,2 @@
+# CPUInfo
+HomeWork QML CPUInfo
